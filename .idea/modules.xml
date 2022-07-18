@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/geo-service-master/geo-service.iml" filepath="$PROJECT_DIR$/geo-service-master/geo-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/geo-serviceNEW.iml" filepath="$PROJECT_DIR$/.idea/geo-serviceNEW.iml" />
+    </modules>
+  </component>
+</project>
